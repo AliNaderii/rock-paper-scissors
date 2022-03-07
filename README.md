@@ -13,11 +13,11 @@ play against your computer and see if you can get some points :)
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://maestro-rps.netlify.app/)
 
 ### Built with
 
