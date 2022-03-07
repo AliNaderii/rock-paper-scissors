@@ -11,7 +11,7 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: 'Barlow Semi Condensed', sans-serif;
-    background-image: linear-gradient( hsl(214, 47%, 23%), hsl(237, 49%, 15%));
+    background-image: radial-gradient( circle at center, hsl(214, 47%, 23%), hsl(237, 49%, 15%));
   }
 
   button {
